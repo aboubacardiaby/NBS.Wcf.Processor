@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NBS.Wcf.Processor.DataProcessorService" CodeBehind="DataProcessorService.svc.cs" %>
